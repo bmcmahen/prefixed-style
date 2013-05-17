@@ -1,0 +1,14 @@
+{
+  "name": "prefixed-style",
+  "repo": "bmcmahen/prefixed-style",
+  "description": "retrieve the prefixed for the current browser, or null",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
